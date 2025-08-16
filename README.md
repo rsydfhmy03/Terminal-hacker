@@ -4,6 +4,8 @@
 
 -----
 
+> https://terminal-hacker.vercel.app/
+
 ## **Deskripsi Proyek (Project Overview)**
 
 **Terminal Hacker: Code Breaker** adalah sebuah game teka-teki berbasis web dengan estetika terminal retro. Dalam game ini, pemain berperan sebagai seorang *agent* (peretas) yang harus memecahkan serangkaian 10 teka-teki terkait dunia teknologi dan pemrograman dalam batas waktu 60 detik untuk berhasil "meretas" sistem.
@@ -26,8 +28,8 @@
 
 Berikut adalah teknologi yang menjadi tulang punggung dari proyek ini:
 
-  * **Framework:** **Next.js (dengan TypeScript)**
-      * **Alasan:** Dipilih karena menyediakan lingkungan pengembangan React yang modern, cepat, dan terstruktur. TypeScript digunakan untuk memastikan tipe data yang aman dan mengurangi potensi *bug* dalam logika game yang kompleks.
+  * **Framework:** **React.js (dengan TypeScript)**
+      * **Alasan:** Dipilih karena menyediakan lingkungan pengembangan Web yang modern, cepat, dan terstruktur. TypeScript digunakan untuk memastikan tipe data yang aman dan mengurangi potensi *bug* dalam logika game yang kompleks.
   * **Styling:** **Tailwind CSS**
       * **Alasan:** Memungkinkan pembuatan desain UI yang *custom* dan responsif dengan sangat cepat langsung di dalam komponen, yang sangat ideal untuk menciptakan estetika terminal yang spesifik tanpa CSS eksternal.
   * **Animasi:** **Framer Motion**
