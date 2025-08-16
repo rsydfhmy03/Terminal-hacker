@@ -11,7 +11,42 @@
   },
   {
     "id": 3,
-    "text": "Frequency Decrypted. Final challenge.\nTo gain full access, name the core technology that allows for interactive, component-based UIs.\n\n> Identify the library: [ R_ _ _ _ ]",
+    "text": "Frequency Decrypted. Impressive.\nTo gain full access, name the core technology that allows for interactive, component-based UIs.\n\n> Identify the library: [ R_ _ _ _ ]",
     "answer": "REACT"
+  },
+  {
+    "id": 4,
+    "text": "Mainframe connection established.\nEvery good agent saves their progress. What is the command to save your changes with a message in version control?\n\n> Enter command: [ g__ / c_____ ]",
+    "answer": "git commit"
+  },
+  {
+    "id": 5,
+    "text": "Firewall is adapting. Quick!\nData is being transmitted in a lightweight format. It stands for 'JavaScript Object...' what?\n\n> Complete the acronym: [ N_______ ]",
+    "answer": "Notation"
+  },
+  {
+    "id": 6,
+    "text": "They are trying to trace you!\nThey've set up a logic trap. Find the next number in the sequence.\n\n1, 1, 2, 3, 5, 8, [ __ ]",
+    "answer": "13"
+  },
+  {
+    "id": 7,
+    "text": "Trace failed. You are a ghost.\nNow, exploit their database. What is the name of the common attack that uses malicious SQL code to manipulate a backend database?\n\n> Identify the attack vector: [ S__ / I________ ]",
+    "answer": "SQL Injection"
+  },
+  {
+    "id": 8,
+    "text": "Database breached. We need their core data.\nIn React, what 'Hook' is used to manage state within a functional component?\n\n> Name the hook: [ u__S____ ]",
+    "answer": "useState"
+  },
+  {
+    "id": 9,
+    "text": "Almost there, Agent!\nTo disable their external defenses, you must understand how their systems communicate. What does the 'A' stand for in 'API'?\n\n> Identify the term: [ A__________ ]",
+    "answer": "Application"
+  },
+  {
+    "id": 10,
+    "text": "CORE ACCESS ACHIEVED.\nThey know we are here. There is only one thing left to do.\nExecute the final command to disable the system safely.\n\n> Final command: [ shutdown -h now ]",
+    "answer": "shutdown -h now"
   }
 ]
