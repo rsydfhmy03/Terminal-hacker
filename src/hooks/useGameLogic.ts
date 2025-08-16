@@ -60,10 +60,17 @@ export const useGameLogic = () => {
     }
   };
 
+    const restartGame = () => {
+    setCurrentLevel(0);
+    setTimeLeft(60);
+    setGameState("playing");
+  };
+
   return {
     gameState,
     currentPuzzle: puzzles[currentLevel],
     timeLeft,
     handleAnswerSubmit,
+    restartGame,
   };
 };
