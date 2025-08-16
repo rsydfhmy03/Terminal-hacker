@@ -6,7 +6,7 @@
   },
   {
     "id": 2,
-    "text": "Layer 1 Bypassed. Good.\nNow, decrypt the communication frequency.\nIt's the language of the web, but for styling.\n\n> What is it? [ _ _ _ ]",
+    "text": "Layer 1 Bypassed. Good.\nNow, decrypt the communication frequency.\nIt's not a programming language, but it's the web's primary language for visual presentation and styling.\n\n> Identify the technology: [ _ _ _ ]",
     "answer": "CSS"
   },
   {
@@ -16,33 +16,33 @@
   },
   {
     "id": 4,
-    "text": "Mainframe connection established.\nEvery good agent saves their progress. What is the command to save your changes with a message in version control?\n\n> Enter command: [ g__ / c_____ ]",
+    "text": "Mainframe connection established.\nEvery good agent saves their progress. What two-word command saves your changes with a message in version control?\n\n> Enter command: [ g__ ______ ]",
     "answer": "git commit"
   },
   {
     "id": 5,
-    "text": "Firewall is adapting. Quick!\nData is being transmitted in a lightweight format. It stands for 'JavaScript Object...' what?\n\n> Complete the acronym: [ N_______ ]",
-    "answer": "Notation"
+    "text": "Firewall is adapting. Quick!\nData is being transmitted in a lightweight format based on JavaScript Object Notation.\n\n> What is the common 4-letter acronym for this format? [ _ _ _ _ ]",
+    "answer": "JSON"
   },
   {
     "id": 6,
-    "text": "They are trying to trace you!\nThey've set up a logic trap. Find the next number in the sequence.\n\n1, 1, 2, 3, 5, 8, [ __ ]",
+    "text": "They are trying to trace you!\nThey've set up a logic trap. Find the next number in this famous sequence.\n\n1, 1, 2, 3, 5, 8, [ __ ]",
     "answer": "13"
   },
   {
     "id": 7,
-    "text": "Trace failed. You are a ghost.\nNow, exploit their database. What is the name of the common attack that uses malicious SQL code to manipulate a backend database?\n\n> Identify the attack vector: [ S__ / I________ ]",
+    "text": "Trace failed. You are a ghost.\nNow, exploit their database. What is the name of the common attack that uses malicious code to manipulate a backend database?\n\n> Identify the attack vector: [ S__ _________ ]",
     "answer": "SQL Injection"
   },
   {
     "id": 8,
-    "text": "Database breached. We need their core data.\nIn React, what 'Hook' is used to manage state within a functional component?\n\n> Name the hook: [ u__S____ ]",
+    "text": "Database breached. We need their core data.\nIn React, what 'Hook' is used to manage a component's internal state?\n\n> Name the hook: [ u__S____ ]",
     "answer": "useState"
   },
   {
     "id": 9,
-    "text": "Almost there, Agent!\nTo disable their external defenses, you must understand how their systems communicate. What does the 'A' stand for in 'API'?\n\n> Identify the term: [ A__________ ]",
-    "answer": "Application"
+    "text": "Almost there, Agent!\nTo disable their external defenses, you must understand how their systems communicate. What does the 'P' stand for in 'HTTP'?\n\n> Identify the term: [ P_______ ]",
+    "answer": "Protocol"
   },
   {
     "id": 10,
