@@ -1,8 +1,10 @@
+import Terminal from "./components/game/Terminal";
+
 function App() {
   return (
-    <div>
-      <h1>Terminal Hacker Project</h1>
-    </div>
+    <main className="h-screen w-screen bg-black flex items-center justify-center p-4">
+      <Terminal />
+    </main>
   )
 }
 
