@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { playTypingSound } from "../../lib/audio";
 
 type UserInputProps = {
   onSubmit: (answer: string) => void;
@@ -21,7 +22,7 @@ const UserInput = ({ onSubmit, isDisabled }: UserInputProps) => {
       <input
         type="text"
         value={value}
-        onChange={(e) => setValue(e.target.value)}
+        onChange={(e) => playTypingSound() && setValue(e.target.value)}
         disabled={isDisabled}
         className="bg-transparent border-none text-green-500 font-mono text-lg focus:outline-none flex-1"
         autoFocus 

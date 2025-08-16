@@ -1,4 +1,5 @@
 import { useState, useEffect, useCallback } from "react";
+import { playSuccessSound, playErrorSound } from "../lib/audio";
 
 export interface Puzzle {
   id: number;
@@ -47,12 +48,14 @@ export const useGameLogic = () => {
 
     const currentPuzzle = puzzles[currentLevel];
     if (submittedAnswer.toLowerCase() === currentPuzzle.answer.toLowerCase()) {
+        playSuccessSound();
       if (currentLevel === puzzles.length - 1) {
         setGameState("won");
       } else {
         setCurrentLevel(currentLevel + 1);
       }
     } else {
+      playErrorSound();
       setTimeLeft(timeLeft > 10 ? timeLeft - 10 : 0);
     }
   };
